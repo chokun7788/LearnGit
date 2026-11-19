@@ -1,0 +1,9 @@
+order_id,customer_id,city,amount,status
+1001,C001,Bangkok,120.5,paid
+1002,C002, bAngkoK ,200,paid
+1003,C003,Chiang Mai,"1,250",paid
+1004,C004,,75,pending
+1005,C005,BKK,0,paid
+1006,C006,Bangkok,abc,cancelled
+1007,C007,chiang mai,90,paid
+1007,C007,chiang mai,90,paid
